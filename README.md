@@ -4,7 +4,7 @@ Consiste en la creación de Un sistema para gestionar una farmacia, incluyendo i
 
 **TECNOLOGÍAS USADAS**
 
-Para la creación de este proyecto se ha utilizado Laravel version 12, Bootstrap 5, el SIGBD Postgre. Todo ello, implementado con HTML.
+Para la creación de este proyecto se ha utilizado Laravel version 12, Tailwind, el SIGBD Postgre. Todo ello, implementado con HTML.
 
 **INTEGRANTES**
 
@@ -46,7 +46,9 @@ El proyecto cuenta con las tablas Usuarios, Ventas, Detalle_Ventas, Detalle_Pedi
 **CONTENIDO DEL PROYECTO**
 
 El proyecto cuenta con la interfaz principal del Sistema de Gestión de Farmacia. Dicha interf posee ciertos botones como "Inicio de Sesión". 
+
 Al dar clic en ello, es posible registrarse y acceder a la página principal tras "loguearse".
+
 Además de ello, tiene una barra de opciones en el lado lateral izquierdo. Una de esas opciones es Medicamentos, en el cual´, únicamente, se puede agregar.
 
 
