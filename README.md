@@ -7,6 +7,7 @@ Consiste en la creación de Un sistema para gestionar una farmacia, incluyendo i
 Para la creación de este proyecto se ha utilizado Laravel version 12, Bootstrap 5, el SIGBD Postgre. Todo ello, implementado con HTML.
 
 **INTEGRANTES**
+
 •	Vásquez Soto, Jesús Alonso
 •	Vega Quiroz, Ángel Joseph
 
