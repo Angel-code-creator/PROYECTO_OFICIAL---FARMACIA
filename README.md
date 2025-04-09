@@ -1,4 +1,4 @@
-PÁGINA WEB DE GESTIÓN DE FARMACIA
+*PÁGINA WEB DE GESTIÓN DE FARMACIA*
 
 Consiste en la creación de Un sistema para gestionar una farmacia, incluyendo inventario y ventas.
 
