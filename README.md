@@ -14,11 +14,17 @@ Para la creación de este proyecto se ha utilizado Laravel version 12, Bootstrap
 **CONFIGURACIÓN DE LA BD**
 
 Se tiene que editar el archivo denominado ".env" de la siguiente manera:
+
 DB_CONNECTION=pgsql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=5432
+
 DB_DATABASE=proyecto_farmacia
+
 DB_USERNAME=postgres
+
 DB_PASSWORD=
 
 **MIGRACIÓN DE LA BD**
