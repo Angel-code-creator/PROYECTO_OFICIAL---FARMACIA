@@ -9,6 +9,7 @@ Para la creación de este proyecto se ha utilizado Laravel version 12, Tailwind,
 **INTEGRANTES**
 
 •	Vásquez Soto, Jesús Alonso
+
 •	Vega Quiroz, Ángel Joseph
 
 **CONFIGURACIÓN DE LA BD**
